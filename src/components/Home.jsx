@@ -30,7 +30,6 @@ export default function Home() {
         preload="auto"
       >
         <source src={video1} type="video/mp4" />
-        <source src="/video1.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
 
